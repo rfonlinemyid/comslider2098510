@@ -1,6 +1,6 @@
 if ((typeof cmsGGI2098510 !== 'undefined') && (cmsGGI2098510 != null) && (typeof cmsGGI2098510.Destroy !== 'undefined')){cmsGGI2098510.Destroy();}function comSlider2098510() { 
 var self = this; 
-var g_HostRoot = "https://github.com/rfonlinemyid/comslider2098510/tree/master/comslider_2098510_2";
+var g_HostRoot = "https://static.rfonline.my.id/comslider_2098510";
 var jssor_slider2098510 = null;cmsGGI2098510 = this;this.Destroy = function(){ if (self.jssor_slider2098510 != null) { self.jssor_slider2098510.$Destroy(); self.jssor_slider2098510 = null;} };  	this.jssor_slider2098510_starter = function (containerId) { 
             var _SlideshowTransitions = [ 
 {$Duration:800,$Delay:300,$Cols:8,$Rows:4,$Clip:15,$SlideOut:true,$Formation:$JssorSlideshowFormations$.$FormationCross,$Easing:$Jease$.$OutQuad}
